@@ -2,4 +2,4 @@
 
 Jogo feito na unity em 3D. // Game made in unity in 3D.
 
-créditos a GameDevPro. // Credits to GameDevPro.
+Créditos a GameDevPro. // Credits to GameDevPro.
